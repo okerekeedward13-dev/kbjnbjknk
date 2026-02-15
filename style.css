@@ -1,0 +1,30 @@
+body{
+    background-color: blue;
+}
+div{
+    background-color: brown;
+}
+.pro{
+    text-decoration: underline;
+}
+.Top-Container{
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    
+}
+.middle-container{
+    background-color: rgba(0, 0, 0, 0.619);
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    margin-left: 200px;
+}
+.bottom-container{
+    background-color: aquamarine;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    margin-left: 220px;
+}
